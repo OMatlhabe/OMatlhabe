@@ -9,8 +9,8 @@ My work combines enablement platform operations with workflow design: discoverin
 
 | Project | Problem solved | Engineering focus | Evidence |
 |---|---|---|---|
-| [Onboarding Concierge](projects/onboarding-concierge/README.md) | Collect onboarding requirements without repeated manual follow-up | Five-workflow AI POC; contextual conversations; role lookup; structured persistence | Design, build history, SOP, three workflow screenshots |
-| [Enablement Intake Automation](projects/enablement-intake/README.md) | Bring scattered requests into one trackable queue | Form-to-tracker pipeline; scheduled notifications; item lineage; notification state | Architecture, decision log, SOP, workflow screenshot |
+| [Onboarding Concierge](projects/onboarding-concierge/README.md) | Collect onboarding requirements without repeated manual follow-up | Five-workflow AI POC; contextual conversations; role lookup; structured persistence | Design, build history, SOP, validation plan |
+| [Enablement Intake Automation](projects/enablement-intake/README.md) | Bring scattered requests into one trackable queue | Form-to-tracker pipeline; scheduled notifications; item lineage; notification state | Architecture, decision log, SOP, validation plan |
 
 **Start with the concierge for AI orchestration. Read the intake case study for operational automation and debugging.**
 
