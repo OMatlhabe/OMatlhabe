@@ -3,14 +3,16 @@
 # Oratile Matlhabe
 ### AI Automation Specialist
 
-**AI agents · Workflow automation · Operational clarity**
+**Automating what matters.**
+
+AI agents · Workflow automation · Operational clarity
 
 I build workflows that turn scattered requests and manual follow-up<br>
 into structured records, connected systems, and clear next steps.
 
 **n8n &nbsp; · &nbsp; JavaScript &nbsp; · &nbsp; Claude &nbsp; · &nbsp; Microsoft 365 &nbsp; · &nbsp; Slack**
 
-[Explore my projects](#selected-projects) &nbsp; · &nbsp; [How I work](#from-problem-to-working-system) &nbsp; · &nbsp; [Technical documentation](https://github.com/OMatlhabe/OMatlhabe/tree/main/projects)
+[Explore my projects](https://github.com/OMatlhabe/OMatlhabe/tree/main/projects) &nbsp; · &nbsp; [How I work](https://github.com/OMatlhabe/OMatlhabe/blob/main/docs/HOW_I_WORK.md) &nbsp; · &nbsp; [Technical documentation](https://github.com/OMatlhabe/OMatlhabe/tree/main/projects)
 
 </div>
 
@@ -33,7 +35,9 @@ Each case study includes architecture, workflow screenshots, implementation guid
 
 **Understand the process → Define the data → Build and test → Document and maintain**
 
-My background in IT support and enablement platform operations shapes how I build: start with the operational problem, use AI where conversation adds value, and keep routing and record handling explicit.
+I approach each project with a versatile set of skills: process analysis, technical troubleshooting, workflow design, AI orchestration, and clear documentation. This gives me a practical foundation for tackling unfamiliar problems, learning what is needed, and choosing a solution that fits the situation.
+
+My background in IT support and enablement platform operations shapes how I build: start with the operational problem, use AI where conversation adds value, and keep routing and record handling explicit. I make a deliberate effort to leave things better than I found them: simpler processes, clearer handoffs, and systems that are easier to maintain.
 
 | Focus | What the projects demonstrate |
 | :--- | :--- |
