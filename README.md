@@ -1,33 +1,49 @@
+<div align="center">
+
 # Oratile Matlhabe
-### AI Automation Specialist | n8n · JavaScript · AI Agents · Microsoft 365
+### AI Automation Specialist
 
-I turn manual operational processes into structured workflows, with clear ownership, traceable records, and documented operating procedures.
+**AI agents · Workflow automation · Operational clarity**
 
-My work combines enablement platform operations with workflow design: discovering the problem, defining the data model, building integrations, debugging failures, and documenting how the system is maintained.
+I build workflows that turn scattered requests and manual follow-up<br>
+into structured records, connected systems, and clear next steps.
 
-## Selected work
+**n8n &nbsp; · &nbsp; JavaScript &nbsp; · &nbsp; Claude &nbsp; · &nbsp; Microsoft 365 &nbsp; · &nbsp; Slack**
 
-| Project | Problem solved | Engineering focus | Evidence |
-|---|---|---|---|
-| [Onboarding Concierge](projects/onboarding-concierge/README.md) | Collect onboarding requirements without repeated manual follow-up | Five-workflow AI POC; contextual conversations; role lookup; structured persistence | Design, build history, SOP, validation plan |
-| [Enablement Intake Automation](projects/enablement-intake/README.md) | Bring scattered requests into one trackable queue | Form-to-tracker pipeline; scheduled notifications; item lineage; notification state | Architecture, decision log, SOP, validation plan |
+[Explore my projects](#selected-projects) &nbsp; · &nbsp; [How I work](#from-problem-to-working-system) &nbsp; · &nbsp; [Technical documentation](https://github.com/OMatlhabe/OMatlhabe/tree/main/projects)
 
-**Start with the concierge for AI orchestration. Read the intake case study for operational automation and debugging.**
-
-## What I bring
-
-- **Workflow design:** translate operational requests into data contracts, state transitions, and integration flows.
-- **AI orchestration:** combine conversational agents with explicit tools and structured records.
-- **Integration:** n8n, JavaScript, Microsoft Excel/SharePoint, Slack, and Anthropic Claude.
-- **Operational ownership:** SOPs, troubleshooting guidance, controlled rollout, and documented trade-offs.
-
-## How to read this portfolio
-
-These are generalized case studies of work I built, with organization-specific identities and configuration omitted. The concierge is a proof of concept. The intake documentation describes a deployed workflow; its current live state has not been independently rechecked for this portfolio.
-
-No workflow JSON exports are included in this edition. Screenshots demonstrate canvas structure, not runtime correctness. Testing described in the project pages is reported in the supplied build documentation, not newly executed against live systems. No measured time savings, financial impact, or reliability claims are invented.
-
-[Evidence and publication scope](docs/EVIDENCE.md) · [Maintenance guide](CONTRIBUTING.md) · [Roadmap](ROADMAP.md)
+</div>
 
 ---
-[GitHub](https://github.com/OMatlhabe)
+
+## Selected projects
+
+| **01 · Onboarding Concierge** | **02 · Enablement Intake Automation** |
+| :--- | :--- |
+| **AI that gathers requirements with context.** | **One queue. Clear ownership. Automated updates.** |
+| A short form starts a contextual conversation. An AI agent gathers role-specific onboarding needs and saves a structured record for operations. | A structured form captures requests, writes them to a shared tracker, and sends submission, owner-assignment, and closure notifications. |
+| Five workflows · Model + memory + tools · Role guidance · Structured persistence | Form-to-tracker integration · 15-minute polling · Four notification branches · Notification-state tracking |
+| **Status:** Proof of concept, with production gaps documented. | **Status:** Deployed workflow described in the build notes; designer and PM notifications paused. |
+| **Stack:** n8n, JavaScript, Claude, Excel/SharePoint | **Stack:** n8n, JavaScript, Excel/SharePoint, Slack |
+| [**View the AI case study →**](https://github.com/OMatlhabe/OMatlhabe/blob/main/projects/onboarding-concierge/README.md) | [**View the automation case study →**](https://github.com/OMatlhabe/OMatlhabe/blob/main/projects/enablement-intake/README.md) |
+
+Each case study includes architecture, workflow screenshots, implementation guidance, an operating procedure, and the decisions behind the build.
+
+## From problem to working system
+
+**Understand the process → Define the data → Build and test → Document and maintain**
+
+My background in IT support and enablement platform operations shapes how I build: start with the operational problem, use AI where conversation adds value, and keep routing and record handling explicit.
+
+| Focus | What the projects demonstrate |
+| :--- | :--- |
+| **AI orchestration** | Context enrichment, conversational guidance, callable tools, and structured capture |
+| **Workflow engineering** | Data mapping, item lineage, integration boundaries, and notification state |
+| **Operational ownership** | Triage procedures, troubleshooting, controlled rollout, and maintenance documentation |
+| **Engineering judgement** | Simpler lookup over unnecessary RAG, scoped model selection, and honest failure analysis |
+
+---
+
+<sub>Generalized case studies with internal identities and configuration removed. Historical validation, implemented behavior, and proposed improvements are distinguished in the project documentation. Importable workflow exports are not included in this edition.</sub>
+
+<sub>[Evidence and scope](https://github.com/OMatlhabe/OMatlhabe/blob/main/docs/EVIDENCE.md) · [Maintenance](https://github.com/OMatlhabe/OMatlhabe/blob/main/CONTRIBUTING.md) · [Roadmap](https://github.com/OMatlhabe/OMatlhabe/blob/main/ROADMAP.md)</sub>
