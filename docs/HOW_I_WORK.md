@@ -1,5 +1,7 @@
 # How I work
 
+**Automating what matters.**
+
 I approach workflows and projects with a versatile set of skills: process analysis, technical troubleshooting, workflow design, AI orchestration, and clear documentation. I draw on these skills to tackle unfamiliar problems, learn what is needed, and choose a solution that fits the situation.
 
 My goal is to make things better. That means making a deliberate effort to simplify processes, reduce repetitive work, clarify ownership, and build systems that people can understand and maintain.
