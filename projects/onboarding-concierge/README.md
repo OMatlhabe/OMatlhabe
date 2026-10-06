@@ -32,7 +32,19 @@ The build log reports four end-to-end conversations, checks across four role cat
 
 ## Workflow screenshots
 
-Three user-supplied canvases (chat, role lookup, confirmation page) were reviewed during portfolio preparation. Image publication is pending, so no screenshot files are included in this repository edition.
+### Concierge chat
+
+![Concierge chat with context lookup, AI agent, model, memory, and callable tools](screenshots/concierge-chat.png)
+
+### Role lookup tool
+
+![Role lookup sub-workflow](screenshots/role-lookup.png)
+
+### Confirmation page
+
+![Confirmation page webhook and HTML response workflow](screenshots/confirmation-page.png)
+
+These three user-supplied screenshots show the concierge canvas structure. Intake and save-record canvases were not supplied. Screenshots are not proof of runtime correctness.
 
 ## Explore
 

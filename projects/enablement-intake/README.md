@@ -23,7 +23,9 @@ Notification flags suppress routine repeats. They do not guarantee exactly-once 
 
 ## Workflow screenshot
 
-The user-supplied intake canvas was reviewed during portfolio preparation. Image publication is pending, so no screenshot file is included in this repository edition.
+![Enablement intake submission flow and scheduled owner, closure, designer, and PM notification branches](screenshots/intake-notifications.png)
+
+This user-supplied screenshot belongs to Enablement Intake. It shows the submission path and scheduled notification branches, including the paused designer and PM filters. It is structural evidence, not proof of runtime behavior.
 
 ## Evidence and scope
 

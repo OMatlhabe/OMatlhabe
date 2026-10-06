@@ -16,7 +16,7 @@ The personal notes PDF was excluded because it contains unrelated private life-p
 
 Documentation was rewritten rather than copied verbatim. Internal organization references, employee and recipient rosters, programme names, credential IDs, workflow/webhook IDs, channel/user IDs, tenant links, workbook configuration, internal audience structures, and operational records are omitted. Generic integration names and engineering lessons remain.
 
-All four attached screenshots were visually inspected. Only generic canvas labels and product UI were visible; no employee records, internal URLs, tokens, or credential panels were visible. Image publication is pending; the repository edition currently contains documentation only.
+All four attached screenshots were visually inspected. Only generic canvas labels and product UI were visible; no employee records, internal URLs, tokens, or credential panels were visible. Original image bytes are included without image editing, with explicit user approval for public publication. The intake canvas is filed under Enablement Intake; chat, role lookup, and confirmation canvases are filed under Onboarding Concierge.
 
 The automated checker examines text for prohibited identifiers, secret-shaped patterns, personal emails, live webhook URLs, and broken local Markdown links. Visual review is still required for future images. Passing the checker is not a guarantee that all confidential information has been removed.
 
