@@ -1,6 +1,5 @@
 # Evidence and publication scope
 
-Portfolio prepared: 2026-10-06.
 
 ## Evidence ledger
 
