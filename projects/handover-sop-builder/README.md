@@ -11,7 +11,7 @@ Most SOPs describe what was done. A handover SOP has to let a stranger do it. Th
 1. A co-authoring workflow: gather context, draft section by section, and test the document with a fresh reader.
 2. A handover-specific structure: access, exceptions, troubleshooting, tribal knowledge, open items and a first-30-days plan.
 
-Inspired by the co-authoring workflow in Anthropic's public skills repository. This skill was written from scratch; check that repository's licence before copying any of its text.
+Built by Oratile Matlhabe with Claude (Anthropic), and inspired by the co-authoring workflow in [Anthropic's public skills repository](https://github.com/anthropics/skills).
 
 ## What it does
 
@@ -24,6 +24,10 @@ Inspired by the co-authoring workflow in Anthropic's public skills repository. T
 | 4. Finish | Open-items register, sign-off, onboarding plan, review reminder |
 
 ## Install
+
+[**Download Handover SOP Builder (.skill)**](https://raw.githubusercontent.com/OMatlhabe/OMatlhabe/main/projects/handover-sop-builder/downloads/handover-sop-builder.skill)
+
+The download is a ZIP-format `.skill` package containing the reviewed source, example, README, validation notes and MIT licence. Extract it if your host expects a skill folder. This repository download is available directly; a GitHub Release attachment has not yet been published.
 
 Copy `SKILL.md` into a folder named `handover-sop-builder` within your agent's skills directory (for example `~/.claude/skills/handover-sop-builder/`) or follow your host application's documented custom-skill import process. Import support differs by product; a Markdown upload alone does not install a skill everywhere.
 
