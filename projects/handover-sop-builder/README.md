@@ -25,9 +25,9 @@ Built by Oratile Matlhabe with Claude (Anthropic), and inspired by the co-author
 
 ## Install
 
-[**Download Handover SOP Builder (.skill)**](https://raw.githubusercontent.com/OMatlhabe/OMatlhabe/main/projects/handover-sop-builder/downloads/handover-sop-builder.skill)
+[**Download Handover SOP Builder (.skill)**](https://github.com/OMatlhabe/OMatlhabe/releases/download/handover-sop-builder-v1.0.0/handover-sop-builder.skill)
 
-The download is a ZIP-format `.skill` package containing the reviewed source, example, README, validation notes and MIT licence. Extract it if your host expects a skill folder. This repository download is available directly; a GitHub Release attachment has not yet been published.
+The download is a ZIP-format `.skill` package containing the reviewed source, example, README, validation notes and MIT licence. Extract it if your host expects a skill folder. Version 1.0.0 is published as a [GitHub Release](https://github.com/OMatlhabe/OMatlhabe/releases/tag/handover-sop-builder-v1.0.0), with the `.skill` package attached under Assets.
 
 Copy `SKILL.md` into a folder named `handover-sop-builder` within your agent's skills directory (for example `~/.claude/skills/handover-sop-builder/`) or follow your host application's documented custom-skill import process. Import support differs by product; a Markdown upload alone does not install a skill everywhere.
 
