@@ -18,6 +18,15 @@ into structured records, connected systems, and clear next steps.
 
 ---
 
+## Reusable operations skills
+
+| Project | What it helps an operator do |
+| :--- | :--- |
+| [**Handover SOP Builder**](projects/handover-sop-builder/README.md) | Turn scattered process knowledge into an owned, source-based SOP with access steps, troubleshooting and independent reader checks. |
+| [**Automation Operations Playbook**](projects/automation-ops-playbook/README.md) | Review recurring workflows for duplicate effects, partial failures, monitoring gaps and operational readiness, with evidence behind each decision. |
+
+These are reusable agent instruction skills with fictional examples and explicit validation limits. They complement the workflow case studies below.
+
 ## Selected projects
 
 | **01 · Onboarding Concierge** | **02 · Enablement Intake Automation** |
